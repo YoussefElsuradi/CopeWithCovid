@@ -1,7 +1,7 @@
 var resultOptions = [
     {
         title: 'Movies',
-        desc: "Watching movies "
+        desc: " Watching movies! A good way to keep yourself entertained during quaratine is to watch a thrilling movie. Below you will be redirected to our movie suggestions "
     },
     {
         title: '',
